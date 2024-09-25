@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about Lilibet Norii/
+permalink: /about/
 image: '/images/Eye-Untagged.png'
 ---
 
@@ -15,9 +15,9 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/maurmaur.png">
-    <img src="/images/901.jpg">
-    <img src="/images/902.jpg">
+    <img src="/images/Momo_and_Marky.png">
+    <img src="/images/Momonorii_1.png">
+    <img src="/images/Momo_pfp.png">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
