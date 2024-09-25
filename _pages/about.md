@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/maurmaur.png'
+image: '/images/maurmaur.jpeg'
 ---
 
 Hello!!!
