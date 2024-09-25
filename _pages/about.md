@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about Lilibet Norii/
 image: '/images/Eye-Untagged.png'
 ---
 
