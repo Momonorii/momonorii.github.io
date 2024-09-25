@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/Eye Untagged.png'
+image: '/images/Eye-Untagged.png'
 ---
 
 Hello!!!
 My name is, Momonorii! I'm also known as Mamaur or Omnom and this is my practice website for getting into IT. I am very new to the world of IT and code so, this is my starting point for my IT CV. I am a Vtuber in my free time and enjoy video games, movies and music. I also dabble in crochet in my off time and work in retail currently. O_O
 
 ![Time to think]({{site.baseurl}}/images/maurmaur.png)
-*Minimalism / [Unsplash](https://unsplash.com/)*
+*Art by Bobovita / [Momonorii Model 1.0](https://unsplash.com/)*
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. An, partus ancillae sitne in fructu disseretur sine reprehensione iracundia.
 
