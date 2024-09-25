@@ -2,10 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/maurmaur.png'
 ---
 
-Hi, my name is Bob Wilson. Sin tantum modo ad indicia veteris memoriae virtute cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam. Serpere genere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari disseretur inter.
+Hello!!!
+My name is, Momonorii! I'm also known as Mamaur or Omnom and this is my practice website for getting into IT. I am very new to the world of IT and code so, this is my starting point for my IT CV. I am a Vtuber in my free time and enjoy video games, movies and music. I also dabble in crochet in my off time and work in retail currently. O_O
 
 ![Time to think]({{site.baseurl}}/images/501.jpg)
 *Minimalism / [Unsplash](https://unsplash.com/)*
