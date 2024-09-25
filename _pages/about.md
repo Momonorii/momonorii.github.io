@@ -24,7 +24,8 @@ I have always enjoyed being behind a computer in general as it's easier for me t
   <em>Models by MarkyEvan who is featured in first image / <a href="https://unsplash.com/" target="_blank">Model 1.0</a></em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine pertectam reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente nona civitatis.
+I have been watching YouTube since I was very small and have always enjoyed creators like: WatchMojo, Dan Howell, AmazingPhil, Markiplier, Jacksepticeye, Boze VS the World, Tommyinnit and Kenji+. I have a very ecclectic taste on what I watch and listen to regularly online and on spotify and this could vary from True crime podcasts/ videos to Sims 4 gameplay with Dan and Phil or a Happy Wheels Compilation by Jacksepticeye.
+Recently it became apparant that I had not started my build on YouTube for myself so I began this long journey for myself and I went from Twitch to YouTube as well. Two sites I've always enjoyed watching on and now I'm apart of them both. Although there are downfalls to being a creator on these sites, being able to show my creativity online through these platforms is a major motivator in my day-to-day life online. 
 
 <p><iframe src="https://youtu.be/12SED5jVtys?si=2IXKYlZT6Xx4ldP3" frameborder="0" allowfullscreen></iframe></p>
 
