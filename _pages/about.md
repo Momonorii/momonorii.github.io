@@ -15,7 +15,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/900.jpg">
+    <img src="/images/maurmaur.jpeg">
     <img src="/images/901.jpg">
     <img src="/images/902.jpg">
   </div>
