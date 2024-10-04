@@ -11,7 +11,7 @@ My name is, Momonorii! I'm also known as Mamaur or Omnom and this is my practice
 ![Time to think]({{site.baseurl}}/images/maurmaur.png)
 *Art by Bobovita / [Momonorii Model 1.0](https://unsplash.com/)*
 
-I have been playing Minecraft for an extremely long time and a lot of my time on Twitch is spent playing a mix of Minecraft, Call of Duty Black Ops 2: Zombies, mascot horror games like; Poppy Playtime, Joyville, My Friendly Neighborhood and Hello Puppets. Minecraft however, is my main category on the streaming and content creation sphere. 
+<p><body><b><h3>I have been playing Minecraft for an</h3> <h1>extremely</h1> <h3>long time and a lot of my time on Twitch is spent playing a mix of Minecraft, Call of Duty Black Ops 2: Zombies, mascot horror games like; Poppy Playtime, Joyville, My Friendly Neighborhood and Hello Puppets. Minecraft however, is my main category on the streaming and content creation sphere. 
 
 I have always enjoyed being behind a computer in general as it's easier for me to just exist quietly behind a model or a voice as I have bad social anxiety in real life social situations sometimes but once I'm confident in a workplace or around certain people, I tend to be very confident and outspoken. I'd say my best traits are that I'm very hardworking when I chose to be, I like to support my colleagues, friends and family in whatever way they need and my punctuality in social, working or online situations. Being late is the worst to me. 
 
