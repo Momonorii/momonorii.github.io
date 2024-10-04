@@ -9,7 +9,7 @@ Hello!!!
 My name is, Momonorii! I'm also known as Mamaur or Omnom and this is my practice website for getting into IT. I am very new to the world of IT and code so, this is my starting point for my IT CV. I am a Vtuber in my free time and enjoy video games, movies and music. I also dabble in crochet in my off time and work in retail currently. O_O
 
 ![Time to think]({{site.baseurl}}/images/maurmaur.png)
-*Art by Bobovita / [Momonorii Model 1.0](https://unsplash.com/)*
+*Art by Bobovita / [Momonorii Model 1.0]*
 
 <p style="font-size:30px">I have been playing Minecraft for an <b style="font-size:40px"> extremely </b>long time and a lot of my time on <b style="color:purple">Twitch </b> is spent playing a mix of Minecraft, Call of Duty Black Ops 2: Zombies, mascot horror games like; Poppy Playtime, Joyville, My Friendly Neighborhood and Hello Puppets. <i style="font-family:'impact'"><i style="color:green"> Minecraft </i> </i> however, is my main category on the streaming and content creation sphere.  
 
